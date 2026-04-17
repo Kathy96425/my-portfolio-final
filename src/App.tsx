@@ -8,7 +8,6 @@ import Experience from './components/Experience';
 import Portfolio from './components/Portfolio';
 import VisualWorks from './components/VisualWorks';
 import Contact from './components/Contact';
-import AIChat from './components/AIChat';
 import ThankYou from './components/ThankYou';
 import Marquee from './components/Marquee';
 
@@ -67,7 +66,6 @@ const App: React.FC = () => {
         <ThankYou />
         <Contact />
       </main>
-      <AIChat />
     </div>
   );
 };
