@@ -339,7 +339,7 @@ export const PROJECTS: Project[] = [
     tags: ["微电影", "剧情"],
     analysis: "本片以双线叙事展开，聚焦大学生张嘉闻与夏瑜各自的内心挣扎，探讨现代年轻人对情感的物化寄托与执念。两人因不同的生活境遇与精神困境陷入对“物”的依赖，最终在命运的巧合下，通过自我反思与外界触动，完成对执念的释然。",
     storyboard: [
-      "/wuzhi-plot.png",
+      "/wuzhi-plot.jpg",
       "/wuzhi-scene01.jpg",
       "/wuzhi-scene02.jpg",
       "/wuzhi-scene03.jpg"
