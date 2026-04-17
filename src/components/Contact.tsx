@@ -90,16 +90,8 @@ const Contact: React.FC = () => {
                 LH
               </div>
               <div className="text-slate-500 font-bold">
-                © 2024 Lai Huiyi. 设计灵感源自数据与创意。
+                © 2026 Lai Huiyi. 设计灵感源自数据与创意。
               </div>
-           </div>
-           <div className="flex gap-4">
-             <a href="#" className="w-12 h-12 bg-slate-800 rounded-xl flex items-center justify-center hover:bg-blue-600 transition-all hover:-translate-y-1">
-               <Linkedin size={24} />
-             </a>
-             <a href="#" className="w-12 h-12 bg-slate-800 rounded-xl flex items-center justify-center hover:bg-yellow-400 hover:text-slate-900 transition-all hover:-translate-y-1">
-               <Github size={24} />
-             </a>
            </div>
         </div>
       </div>
