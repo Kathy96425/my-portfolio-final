@@ -92,7 +92,7 @@ export const PROJECTS: Project[] = [
     subCategory: "媒体稿件",
     description: "传统文化焕新 · 人物专访",
     imageUrl: "/huangweikun.jpg",
-    link: "https://m.gdzjdaily.com.cn/p/2813588.html",
+    link: "https://www.gdzjdaily.com.cn/p/2815608.html",
     tags: [],
     detailedContent: [
       {
